@@ -1,7 +1,7 @@
 /**
  * CSCI 241
  *
- * Author: Mik Mieczkowski (z2010367)
+ * Author
  *
  *
  */
